@@ -1,4 +1,4 @@
-FROM java:openjdk-8-jre-alpine
+FROM azul/zulu-openjdk-alpine:8u192-8.33.0.1
 
 WORKDIR /home
 
