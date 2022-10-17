@@ -1,4 +1,4 @@
-FROM azul/zulu-openjdk-alpine:8u192-8.33.0.1
+FROM openjdk:11-jre-slim
 
 WORKDIR /home
 
